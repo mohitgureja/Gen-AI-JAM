@@ -1,0 +1,13 @@
+openai
+langchain
+langchain-community
+langchain-openai
+streamlit
+python-dotenv
+pdfminer.six
+faiss-cpu
+jq
+pandas
+matplotlib
+scikit-learn
+seaborn
